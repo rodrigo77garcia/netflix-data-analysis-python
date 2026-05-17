@@ -33,7 +33,6 @@ Netflix Movies and TV Shows dataset from Kaggle.
 - Strong concentration of US productions
 
 ## How to Run
-## How to Run
 
 ```bash
     pip install -r requirements.txt
